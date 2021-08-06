@@ -2,7 +2,7 @@
 List of Asian Countries 
 Web dev intern task
 
-I have runned the same code on codesandbox.io so I am posting the link of my react app YOu can check it out.
+I have runned the same code on codesandbox.io so I am posting the link of my react app You can check it out.
 https://rcnch.csb.app/
 Scroll down to see more countries.
  
